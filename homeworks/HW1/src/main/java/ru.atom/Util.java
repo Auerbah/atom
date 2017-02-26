@@ -5,6 +5,9 @@ package ru.atom;
  * Note:
  *  throw new UnsupportedOperationException(); - is just a stub
  */
+
+import java.util.Arrays;
+
 public class Util {
 
 
